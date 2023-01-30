@@ -1,0 +1,2 @@
+../test images/hindi-news-1.jpg
+../test images/hindi-news-2.jpg
